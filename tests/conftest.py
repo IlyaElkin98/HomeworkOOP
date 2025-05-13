@@ -1,4 +1,3 @@
-
 import pytest
 
 from src.oop_class_category import Category
